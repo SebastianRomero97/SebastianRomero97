@@ -1,6 +1,6 @@
  👋 Hi, I'm Sebastian Antonio Romero
 
-💻 Frontend Developer  
+💻 Full Stack Developer | Frontend Specialist  
 🌎 Argentina  
 🚀 Proactive · Curious · Resourceful
 
@@ -8,7 +8,7 @@
 
  🧑‍💻 Professional Profile
 
-Frontend Developer focused on building **clean, well-structured and user-friendly interfaces**.  
+Fullstack Developer focused on building **clean, well-structured and user-friendly interfaces**.  
 I work with modern frontend technologies, prioritizing **code organization**, **responsiveness** and **best practices**.
 
 I am currently **seeking my first professional opportunity** as a Frontend Developer, aiming to gain real-world experience and grow within a collaborative tech team.
