@@ -53,7 +53,6 @@ I enjoy facing technical challenges and see every problem as an opportunity to i
 - Responsive layouts and reusable components
 - Focus on project structure and clean code practices
 
-*(Project links available in repositories)*
 
 ---
 
